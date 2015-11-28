@@ -1,0 +1,20 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arvo', Georgia, Times, serif;
+
+}
+p, div {
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+}
+.imageClip{
+    width:auto;
+    height: 125px;
+    overflow:hidden;
+}
+header {
+    background: url(../img/confectionary.png);
+    color: #18bc9c;
+}
+body {
+    background: url(../img/confectionary.png);
+}
+
